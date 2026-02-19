@@ -70,32 +70,11 @@ Childhood-in-Barranquilla/
 | **ICFES.ipynb** | Academic Performance | Examines standardized test results and educational quality indicators across Colombian cities |
 | **Primera Infancia MEN.ipynb** | Early Childhood | Explores early childhood development programs and enrollment data for children 0-5 years old |
 
-## 🚀 Getting Started
+## 🚀 Prerequisites
 
-### Prerequisites
 - Python 3.7+
 - Jupyter Notebook or JupyterLab
 - Required libraries: pandas, numpy, matplotlib, seaborn
-
-### Installation
-
-1. Clone this repository:
-```bash
-git clone https://github.com/JJR9903/Childhood-in-Barranquilla.git
-cd Childhood-in-Barranquilla
-```
-
-2. Install required dependencies:
-```bash
-pip install jupyter pandas numpy matplotlib seaborn scipy scikit-learn
-```
-
-3. Launch Jupyter Notebook:
-```bash
-jupyter notebook
-```
-
-4. Open any `.ipynb` file to explore the analysis
 
 ## 📈 Analysis Workflow
 
